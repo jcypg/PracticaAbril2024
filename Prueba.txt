@@ -5,3 +5,4 @@ El archivo Prueba.txt es un archivo de pruebas.
 =======
 Esta linea se agrego desde ramaNueva.
 >>>>>>> ramaNueva
+Esta linea se agrego desde Github.

@@ -1,3 +1,7 @@
 El archivo Prueba.txt es un archivo de pruebas. 
  El contenido del archivo sufrirá algunos cambios.
+<<<<<<< HEAD
  Esta otra linea fue agregada desde master.
+=======
+Esta linea se agrego desde ramaNueva.
+>>>>>>> ramaNueva

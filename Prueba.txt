@@ -1,2 +1,3 @@
 El archivo Prueba.txt es un archivo de pruebas. 
  El contenido del archivo sufrirá algunos cambios.
+ Esta otra linea fue agregada desde master.
